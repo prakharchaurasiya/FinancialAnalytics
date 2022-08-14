@@ -1,1 +1,1 @@
-Basic portfolio analysis.
+Basic portfolio analysis using pandas, numpy, scipy.
