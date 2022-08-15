@@ -1,7 +1,8 @@
 Basic portfolio analysis using pandas, numpy, scipy.
 
-optimal_portfolio
+optimal_portfolio.py
 -----------------
+```
 input : 
 ['Reliance', 'SBIN', 'TCS', 'ACC', 'ADANIPORTS'] 
 
@@ -16,3 +17,4 @@ Reliance             19.18            28.25
 ADANIPORTS           11.60             0.00
 ACC                  -0.30             0.00
 TCS                  -0.78             0.00
+```
