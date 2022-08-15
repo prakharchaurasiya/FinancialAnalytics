@@ -1,3 +1,8 @@
+'''
+This fuction takes list of stocks from which desired number of stocks can be selected in a portfolio.
+Outputs the optimal weights of the selected portfolio.
+'''
+
 import numpy as np
 import pandas as pd
 import scipy
